@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe-java",
+  "version": "1.0.0",
+  "description": "tic tac toe  game  in java",
+  "main": "index.java",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
